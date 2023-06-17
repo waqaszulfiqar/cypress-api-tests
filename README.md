@@ -3,9 +3,7 @@
 
 ### [About](#about)
 
-### About ###
-
-Currently this framework has been developed in Cypress to test API's.
+Currently, this framework has been developed in Cypress to test API's.
 
 
 
@@ -17,13 +15,13 @@ Currently this framework has been developed in Cypress to test API's.
 ### Setup Scripts ###
 
 * Clone the repository into a folder
-* Go inside the folder and run following command from terminal/command prompt
+* Go inside the folder and run the following command from the terminal/command prompt
 ```
 npm install 
 ```
-* All the dependencies from package.json would be installed in node_modules folder.
+* All the dependencies from package.json would be installed in the node_modules folder.
 
-**Tip:** Install `npm install -g` globally on your system and run it from the command-line which checks if your node path is set correctly or not.
+**Tip:** Install `npm install -g` globally on your system and run it from the command line which checks if your node path is set correctly or not.
 
 ### Run Tests ###
 
