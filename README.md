@@ -1,11 +1,8 @@
 ## API Automation Framework ##
 
-
 ### [About](#about)
 
 Currently, this framework has been developed in Cypress to test API's.
-
-
 
 ### Tech-stack ###
 
